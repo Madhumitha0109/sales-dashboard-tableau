@@ -19,7 +19,7 @@ This project presents an interactive Tableau dashboard designed to analyze seafo
 
 ![Key Insights](sales-insights.png)
 
-![Key Insights2](sales-insights.png)
+![Key Insights2](sales-insights2.png)
 
 ---
 
